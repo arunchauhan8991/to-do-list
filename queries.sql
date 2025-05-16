@@ -3,4 +3,5 @@ CREATE TABLE items (
   title VARCHAR(100) NOT NULL
 );
 
+--example querry--
 INSERT INTO items (title) VALUES ('Buy milk'), ('Finish homework');
